@@ -12,9 +12,9 @@ import (
 	"io"
 
 	"github.com/google/uuid"
-	"github.com/shelld3v/aquatone/agents"
-	"github.com/shelld3v/aquatone/core"
-	"github.com/shelld3v/aquatone/parsers"
+	"github.com/giorgiofox/aquatone/agents"
+	"github.com/giorgiofox/aquatone/core"
+	"github.com/giorgiofox/aquatone/parsers"
 )
 
 var (
