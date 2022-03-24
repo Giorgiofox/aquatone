@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.9.1-shelld3v]
+## [1.9.1-giorgiofox]
 
 ### Added:
 - New command line flag `-header` to add optional headers to requests
@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Colors/styles of report tags are now look cooler
 - Debug mode has been replaced with a debug log inside output directory
 
-## [1.9.0-shelld3v]
+## [1.9.0-giorgiofox]
 
 ### Added:
 - BigCartel domain takeover detection
@@ -31,7 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed:
 - Client-side Prototype Pollution vulnerability detection (affects scanning result)
 
-## [1.8.0-shelld3v]
+## [1.8.0-giorgiofox]
 
 ### Added:
 - Client-side Prototype Pollution vulnerability detection
@@ -154,10 +154,10 @@ Complete rewrite and simplification of Aquatone. Now written in Go and focused o
 - Domain discovery (`aquatone-discover`)
 - Domain takeover discovery (`aquatone-takeover`)
 
-[Unreleased]: https://github.com/michenriksen/aquatone/compare/1.9.1-shelld3v...HEAD
-[1.9.1-shelld3v]: https://github.com/michenriksen/aquatone/compare/v1.9.0-shelld3v...1.9.1-shelld3v
-[1.9.0-shelld3v]: https://github.com/shelld3v/aquatone/compare/v1.8.0-shelld3v...v1.9.0-shelld3v
-[1.8.0-shelld3v]: https://github.com/shelld3v/aquatone/compare/v1.8.0-shelld3v
+[Unreleased]: https://github.com/michenriksen/aquatone/compare/1.9.1-giorgiofox...HEAD
+[1.9.1-giorgiofox]: https://github.com/michenriksen/aquatone/compare/v1.9.0-giorgiofox...1.9.1-giorgiofox
+[1.9.0-giorgiofox]: https://github.com/giorgiofox/aquatone/compare/v1.8.0-giorgiofox...v1.9.0-giorgiofox
+[1.8.0-giorgiofox]: https://github.com/giorgiofox/aquatone/compare/v1.8.0-giorgiofox
 [1.7.0]: https://github.com/michenriksen/aquatone/compare/v1.7.0-beta.2...v1.7.0
 [1.7.0-beta.2]: https://github.com/michenriksen/aquatone/compare/v1.7.0-beta...v1.7.0-beta.2
 [1.7.0-beta]: https://github.com/michenriksen/aquatone/compare/v1.6.0...v1.7.0-beta
