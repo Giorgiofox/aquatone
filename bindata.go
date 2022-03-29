@@ -17,7 +17,7 @@
 // static/report_template.html
 // static/report_template_local.html
 
-package core
+package main
 
 
 import (
